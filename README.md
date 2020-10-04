@@ -13,7 +13,7 @@ early 2010s.
 ## Setup
 
 To use this Dockerfile, you must first download 
-[MySQL 5.6.31 debs]([here](https://dev.mysql.com/downloads/file/?id=496314).
+[MySQL 5.6.31 debs](https://dev.mysql.com/downloads/file/?id=496314).
 Rename the tarball to `mysqlserver5.7.tar`.
 
 ## Building and Installing
