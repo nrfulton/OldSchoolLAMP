@@ -6,7 +6,9 @@ and take extreme precautions before exposing one of these containers to the
 public internet.
 
 The intended use case of this Dockerfile is running legacy LAMP applications
-in a controlled environment.
+in a controlled environment. In particular, I replicate some of the options
+that were common in shared hosting envrionments during the late 2000s and 
+early 2010s. 
 
 ## Setup
 
